@@ -1,0 +1,16 @@
+.idea/
+.github/
+.git/
+.venv/
+.stoplight/
+__pycache__
+*.DS_Store
+*.pyo
+.editorconfig
+.env
+.env.example
+.gitignore
+static/
+extern/ns3/build
+extern/ns3/cmake-cache
+extern/ns3/.lock-ns3*
